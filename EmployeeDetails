@@ -28,7 +28,7 @@ public class PartTimeEmployees{
     public void setNetSalary(double netSalary){
         this.netSalary=netSalary;
     }
-    public void getType(String type_full){
+    public void setType(String type_full){
         this.type=type_full;
     }
 
